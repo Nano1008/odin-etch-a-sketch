@@ -1,0 +1,18 @@
+button {
+    display: block;
+    margin: 20px auto;
+}
+
+.grid-container {
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #333;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-square {
+    box-sizing: border-box;
+    border: 1px solid #DDD;
+}
